@@ -1,6 +1,6 @@
-#Aplicación Veterinaria
+# Aplicación Veterinaria
 
-##Descripción de la Aplicación
+## Descripción de la Aplicación
 
 La aplicación veterinaria permitirá la gestión de mascotas, clientes y veterinarios. Ofrecerá funcionalidades clave como:
 
@@ -14,7 +14,7 @@ Notificaciones para recordatorios.
 
 Gestión de usuarios y roles.
 
-##Tecnologías a Utilizar
+## Tecnologías a Utilizar
 
 Base de Datos: MongoDB
 
@@ -24,7 +24,7 @@ Frontend: Angular
 
 Contenedorización: Docker
 
-##Roles y Permisos
+## Roles y Permisos
 
 Administrador: Gestiona usuarios, configuraciones y reportes.
 
@@ -34,7 +34,7 @@ Recepcionista: Programa citas, gestiona pagos y clientes.
 
 Dueño de Mascota: Accede a información de su mascota, recibe recordatorios.
 
-##Requisitos Funcionales
+## Requisitos Funcionales
 
 Registro y gestión de usuarios con distintos roles.
 
@@ -52,7 +52,7 @@ Implementación de pagos para consultas y tratamientos.
 
 Notificaciones por correo, SMS o notificaciones móviles.
 
-##Diagramas
+## Diagramas
 
 Diagrama de Entidad-Relación o UML de Clases (Pendiente de actualización por cambios en la idea).
 
