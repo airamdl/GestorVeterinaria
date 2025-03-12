@@ -22,7 +22,7 @@ Backend: NestJS
 
 Frontend: Angular
 
-Contenedorización: Docker
+Contenedor: Docker
 
 ## Roles y Permisos
 
